@@ -17,9 +17,15 @@ from here
 https://github.com/brianpeiris/holoplay-webxr-three
 
 Clone the repo
+
 cd to the holoplay-webxr-three-marchingcubes-metaballs directory
+
 npm install
+
 npm run
+
 access site at localhost:3000
+
 edit index.js
+
 bundle.js will be created on saving index.js
